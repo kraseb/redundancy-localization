@@ -3,8 +3,9 @@
 This repository contains data for the evaluation of redundancy localization in pairs of short texts. The dataset accompanies the following paper:
 
 -  Title: "Redundancy Localization for the Conversationalization of Unstructured Responses"
--  Authors: (anonymized)
--  Unpublished
+-  Authors: Sebastian Krause, Mikhail Kozhevnikov, Eric Malmi, Daniele Pighin
+-  To be presented at [SigDial 2017](http://www.sigdial.org/workshops/conference18/) (Proceedings will likely be published in the [ACL Anthology](http://www.aclweb.org/anthology/sigdial.html) in late 2017).
+-  Camera-ready version: [PDF](sigdial2017-redundancy-localization.pdf)
 
 ## The Task
 
@@ -119,5 +120,6 @@ The data is licensed under the Creative Commons Attribution-ShareAlike 3.0 licen
 
 ## Contact
 
-- (anonymized)
+- Sebastian Krause, krauseseb86@googlemail.com
+- Mikhail Kozhevnikov, qnan@google.com
 
